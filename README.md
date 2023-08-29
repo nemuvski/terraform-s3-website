@@ -13,7 +13,6 @@
 - `LocalStack`
 - `aws-cli`
 - `Terraform`
-- `Node.js`
 
 ## 準備
 
